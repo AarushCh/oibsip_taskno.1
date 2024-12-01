@@ -22,8 +22,11 @@ Serves as the entry point for the application. It combines all other components 
 
 ## Future Enhancements
  Use a database (like MySQL) for storing user, train, and reservation data.
+ 
  Include validation checks (e.g., ensure train number exists).
+ 
  Add unique PNR generation for each reservation.
+
  Improve the user interface (e.g., using Java Swing or JavaFX).
 
 # Developed By Ch Aarush Udbhav
