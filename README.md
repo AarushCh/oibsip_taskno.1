@@ -5,19 +5,19 @@ The Online Reservation System is a comprehensive Java-based application designed
 
 ## Files And Their Detailed Description - 
 
-User.java
+###User.java
 Manages user authentication by validating login credentials. It uses a static map to simulate a database of usernames and passwords.
 
-Train.java
+###Train.java
 Represents train details such as train number and train name. This class is used to define and manage train data in the system.
 
-ReservationSystem.java
+###ReservationSystem.java
 Handles core reservation functionalities, including displaying available trains, booking tickets, and canceling reservations. It stores reservations in a list and interacts with the Train class for train data.
 
-Login.java
+###Login.java
 Facilitates user login by collecting credentials from the user and verifying them using the User class. It ensures only authorized users can access the system.
 
-Main.java
+###Main.java
 Serves as the entry point for the application. It combines all other components to create a user-friendly menu-driven interface, allowing users to log in, view trains, reserve tickets, cancel reservations, or exit the application.
 
 ## Future Enhancements
@@ -25,3 +25,5 @@ Serves as the entry point for the application. It combines all other components 
  Include validation checks (e.g., ensure train number exists).
  Add unique PNR generation for each reservation.
  Improve the user interface (e.g., using Java Swing or JavaFX).
+
+# Developed By Ch Aarush Udbhav
