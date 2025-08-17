@@ -1,4 +1,4 @@
-# oibsip_taskno.1
+# Online Reservation System
 # 𝐀𝐈𝐂𝐓𝐄 𝐎𝐈𝐁-𝐒𝐈𝐏 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 - 𝐏𝟏 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐔𝐁𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐅𝐎𝐑𝐌 - Task 01
 
 The Online Reservation System is a comprehensive Java-based application designed to simplify the ticket reservation process for users. It features a secure login system, allowing only authorized users to access the platform. Once logged in, users can view available train schedules, reserve tickets by providing essential details like journey date, class type, and destinations, and even cancel reservations using their unique PNR information. The system utilizes a central database for storing user credentials and reservation details, ensuring quick and seamless access to data. With a user-friendly interface, this project is ideal for demonstrating core Java concepts such as object-oriented programming, data handling, and real-world application development, while also highlighting the practical use of collections and basic I/O operations.
